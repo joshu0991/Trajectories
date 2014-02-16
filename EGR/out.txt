@@ -1,0 +1,6 @@
+Guess 1: 280.68040423143907ft
+Guess 2: 999.388963608001ft
+Guess 3: 24.90515008815524ft
+Guess 4: 6.4927233280098795ft
+For the target distance of 200 ft guess number 1 was the closest shot on target.
+Initial velocity was 200 ft/s and theta was  33 degrees. 
